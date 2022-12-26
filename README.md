@@ -10,3 +10,11 @@
 - 1-5 autogradqs_tutorial
 - 1-6 optimization_tutorial
 - 1-7 saveloadrun_tutorial
+
+
+
+
+
+
+### NLP 논문 리뷰 (stduy)
+- https://cpm0722.github.io/pytorch-implementation/transformer
