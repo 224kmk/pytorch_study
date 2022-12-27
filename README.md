@@ -11,6 +11,15 @@
 - 1-6 optimization_tutorial
 - 1-7 saveloadrun_tutorial
 
+ ## 2. pytorch_in_youtube
+ - 2-1 introyt1_tutorial
+ - 2-2 tensors_deeper_tutorial
+ - 2-3 autogradyt_tutorial
+ - 2-4 modelsyt_tutorial
+ - 2-5 tensorboardyt_tutorial
+ - 2-6 trainingyt
+ - 2-7 captumyt
+
 
 
 
