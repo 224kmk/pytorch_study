@@ -16,5 +16,9 @@
 
 
 
-### NLP 논문 리뷰 (stduy)
+### NLP 논문 리뷰 (study - reference)
 - https://cpm0722.github.io/pytorch-implementation/transformer
+- https://kaya-dev.tistory.com/11
+
+### 선형대수학
+- https://angeloyeo.github.io/2019/08/06/determinant.html
