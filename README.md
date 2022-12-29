@@ -19,8 +19,13 @@
  - 2-5 tensorboardyt_tutorial
  - 2-6 trainingyt
  - 2-7 captumyt
-
-
+ 
+ ## 3. torch_vision
+ - torchvision_finetuning_instance_segmentation_1
+ - transfer_learning_tutorial_2
+ - fgsm_tutorial_3
+ - dcgan_faces_tutorial_4
+ - vt_tutorial_5
 
 
 
