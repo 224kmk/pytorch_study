@@ -21,12 +21,19 @@
  - 2-7 captumyt
  
  ## 3. torch_vision
- - torchvision_finetuning_instance_segmentation_1
- - transfer_learning_tutorial_2
- - fgsm_tutorial_3
- - dcgan_faces_tutorial_4
- - vt_tutorial_5
-
+ - 1_torchvision_finetuning_instance_segmentation
+ - 2_transfer_learning_tutorial
+ - 3_fgsm_tutorial
+ - 4_dcgan_faces_tutorial
+ - 5_vt_tutorial
+ 
+ ## 4. torch_NLP
+ - 1_transformer_tutorial
+ - 2_char_rnn_classification_tutorial
+ - 3_char_rnn_generation_tutorial
+ - 4_seq2seq_translation_tutorial
+ - 5_text_sentiment_ngrams_tutorial
+ - 6_translation_transformer
 
 
 
