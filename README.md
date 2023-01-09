@@ -38,7 +38,7 @@
 
 
 ### jupyter_notebook
-- 메모리 오류 해결 : import os os.environ['KMP_DUPLICATE_LIB_OK']='True'
+- 메모리 오류 해결 : import os os.environ['KMP_DUPLICATE_LIB_OK']='True' 
 
 ### NLP 논문 리뷰 (study - reference)
 - https://cpm0722.github.io/pytorch-implementation/transformer
